@@ -240,8 +240,8 @@ It is free to do so, but sometimes the classes are not in session so you have to
     - [ ] Cracking The Coding Interview Set 1:
         - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
         - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-    - [ ] How to Get a Job at the Big 4:
-        - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [x] How to Get a Job at the Big 4:
+        - [x] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
 ## Pick One Language for the Interview
@@ -993,7 +993,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] **START HERE**: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
     - [ ] [How Do I Prepare To Answer Design Questions In A Technical Inverview?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview?redirected_qid=1500023)
     - [ ] [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
-    - [ ] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
+    - [x] [Algorithm design](http://www.hiredintech.com/algorithm-design/)
     - [ ] [Database Normalization - 1NF, 2NF, 3NF and 4NF (video)](https://www.youtube.com/watch?v=UrYLYV7WSHM)
     - [ ] [System Design Interview](https://github.com/checkcheckzz/system-design-interview) - There are a lot of resources in this one. Look through the articles and examples. I put some of them below.
     - [ ] [How to ace a systems design interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
@@ -1240,7 +1240,7 @@ Supplemental:
 - [Exercises for getting better at a given language](http://exercism.io/languages)
 
 **Read as a review and problem recognition**
-- [ ] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
+- [x] [Algorithm Design Manual](http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) (Skiena)
     - To quote Yegge: "More than any other book it helped me understand just how astonishingly commonplace 
         (and important) graph problems are – they should be part of every working programmer's toolkit. The book also 
         covers basic data structures and sorting algorithms, which is a nice bonus. But the gold mine is the second half 
